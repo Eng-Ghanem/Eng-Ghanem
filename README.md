@@ -147,6 +147,12 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 [![Email](https://img.shields.io/badge/Email-mohamed.ghanem26g@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ghanem26g@gmail.com)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Eng--Ghanem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-Ghanem)
 
+<br/>
+
+📧 **Email**: [mohamed.ghanem26g@gmail.com](mailto:mohamed.ghanem26g@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **LinkedIn**: [linkedin.com/in/mohamed-ghanem-88346538a](https://www.linkedin.com/in/mohamed-ghanem-88346538a) &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **GitHub**: [github.com/Eng-Ghanem](https://github.com/Eng-Ghanem)
+
+<br/>
+
 *Available for Cyber Security, SOC Analyst, Network Defense, and Embedded Systems Engineering opportunities.*
 
 </div>
