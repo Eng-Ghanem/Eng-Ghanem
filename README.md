@@ -2,7 +2,7 @@
 
 # 🛡️ Mohamed Ghanem
 ### **Cyber Security Engineer & SOC Analyst**
-*Specializing in Threat Detection, Network Defense, IoT Security Architectures & Intelligent Autonomous Systems*
+*Specializing in Threat Detection & Incident Response, SOC Operations, AI-Driven Security & Enterprise Network Defense*
 
 ```text
 "وقل ربي زدني علما"
@@ -10,7 +10,7 @@
 ```
 
 [![GitHub Followers](https://img.shields.io/github/followers/Eng-Ghanem?label=Followers&style=for-the-badge&color=00d2d3&logo=github)](https://github.com/Eng-Ghanem)
-[![Repositories](https://img.shields.io/badge/Public%20Repositories-17-blue?style=for-the-badge&color=5f27cd&logo=git)](https://github.com/Eng-Ghanem?tab=repositories)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEng-Ghanem&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=5f27cd&logo=git)](https://github.com/Eng-Ghanem?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ghanem-88346538a)
 [![Email](https://img.shields.io/badge/Email-mohamed.ghanem26g@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ghanem26g@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Eng-Ghanem&color=0984e3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Eng-Ghanem)
@@ -21,17 +21,19 @@
 
 ## 📌 Executive Summary
 
-I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundations spanning **Blue Teaming, Security Operations (SOC), Network Hardening, and Cyber-Physical Systems (CPS) Security**. My engineering background combines deep knowledge of defensive cybersecurity protocols, intrusion detection, and enterprise network design with hands-on development in **Embedded Firmware, Robotics, Artificial Intelligence, and Modern Full-Stack Web Applications**.
+I am a **Cyber Security Engineer and SOC Analyst** dedicated to defensive security operations, proactive threat hunting, incident response, network hardening, and intelligent AI-powered threat detection. My engineering foundation unites traditional **Blue Team Operations and Security Operations Center (SOC) workflows** with **Artificial Intelligence & Machine Learning**, building automated detection pipelines, behavioral telemetry analysis, and resilient defense-in-depth architectures.
 
-- 🔍 **Defensive Security & SOC Operations**: Threat monitoring, log telemetry analysis, traffic anomaly inspection, SIEM fundamentals, and Incident Response Planning (IRP).
-- 🌐 **Enterprise Network Architecture & Hardening**: Micro-segmentation (VLANs), Inter-VLAN routing, OSPF, Access Control Lists (ACLs), Port Security, and Defense-in-Depth perimeter protection.
-- 🔐 **IoT & Cyber-Physical Security**: Threat modeling for connected devices, hardware Root of Trust, mutual TLS (mTLS), secure boot, OTA update integrity, and GNSS/V2X navigation vulnerability mitigation.
-- ⚡ **Multi-Disciplinary Engineering**: Practical experience developing autonomous robotics (AGVs), real-time FreeRTOS embedded systems, machine learning state estimators (EKF/UKF), and production full-stack platforms.
+- 🔍 **SOC Operations & Incident Response**: Multi-source log telemetry analysis, alert triage, traffic anomaly inspection, SIEM fundamentals, and Incident Response Planning (IRP) mapped to the MITRE ATT&CK framework.
+- 🤖 **AI & Machine Learning for Cybersecurity**: Practical implementation of statistical state estimation (Extended/Unscented Kalman Filters), biometric anti-spoofing and liveness classification (Local Binary Patterns + Support Vector Machines), and tabular Reinforcement Learning (Q-Learning) for autonomous decision optimization and anomaly classification.
+- 🌐 **Enterprise Network Defense & Hardening**: Defense-in-Depth campus network architectures, VLAN micro-segmentation, dynamic OSPF routing security, Access Control Lists (ACLs), Switchport Port Security, and syslog/NTP auditing.
+- 🔐 **Cryptographic Security & System Integrity**: Hardware Root of Trust principles, mutual TLS (mTLS) authentication, public key infrastructure (PKI), secure boot chains, and cryptographic firmware integrity validation.
+- 💻 **Secure Full-Stack & Systems Engineering**: Architecting production multi-tier platforms with role-based access control (RBAC), JWT authentication, Joi input validation schemas, and database security.
 
 ---
 
 ## 🗂️ Engineering Portfolio & Project Matrix
 
+<!-- DYNAMIC_PROJECTS_START -->
 <div align="center">
 
 ### 🛡️ Cybersecurity, SOC & Network Defense
@@ -45,28 +47,18 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 
 ---
 
-### 🧠 Artificial Intelligence & Machine Learning
+### 🧠 Artificial Intelligence, Machine Learning & Intelligent Systems
 
 | Project | Focus / Objective | Methods & Tooling | Repository |
 |:---|:---|:---|:---:|
 | **EKF vs. UKF Radar State Estimation** | Nonlinear 2D Target Tracking from Noisy Polar Radar Signals | Extended Kalman Filter (Taylor Jacobians), Unscented Kalman Filter (Merwe Sigma Points), NumPy | [**Explore**](https://github.com/Eng-Ghanem/EKF-UKF-kalman-filter-using-python-radar-measurments-nonlinear-system-Virtualization) |
 | **Autonomous Maze Solver Agent** | Tabular Reinforcement Learning Navigation in Dynamic GridWorld | Q-Learning (Temporal Difference Control), $\epsilon$-Greedy Policy, Pygame | [**Explore**](https://github.com/Eng-Ghanem/Maze-Solver-using-Reinforcement-Learning-Q-Learning-AI) |
 | **Foundational ML from Scratch** | Mathematical Implementation of Core Algorithms without High-Level ML Frameworks | Backpropagation, Multi-Layer Perceptrons, K-Means Clustering, SVM Margins, OLS | [**Explore**](https://github.com/Eng-Ghanem/Machine-Learning-Codes-in-Python) |
+| **PID Tuning via Bayesian Optimization** | Gaussian Process Surrogate Modeling & Industrial Good Gain GUI | MATLAB, Simulink, Gaussian Process Regression, ITAE Objective Optimization | [**Explore**](https://github.com/Eng-Ghanem/PID-Tuning-with-Bayesian-Optimization-method-Good_gain_method_GUI) |
 
 ---
 
-### 🤖 Robotics, Embedded Systems & Real-Time Control
-
-| Project | System Type | Architecture & Hardware | Repository |
-|:---|:---|:---|:---:|
-| **Autonomous Guided Vehicle (AGV)** | Grid Line Following & Wireless Teleoperation | Arduino Uno, ATmega328P, MPU6050 6-DOF IMU, L298N, JavaFX BlueCove RFCOMM | [**Explore**](https://github.com/Eng-Ghanem/Auto-Guided-Veical) |
-| **Distance Control Vehicle** | Closed-Loop Obstacle Distance Regulation ($25\text{ cm}$ Setpoint) | ATmega32 AVR, FreeRTOS Multitasking Kernel, Ultrasonic Sensor, PID Controller | [**Explore**](https://github.com/Eng-Ghanem/Distance-Control-vehicle) |
-| **Vision-Guided Robotic Sorting Cell** | Optical Classification & Pick-and-Place Manipulation | Universal Robots UR5e, Robotiq 3-Finger Adaptive Gripper, Webots Simulator, C | [**Explore**](https://github.com/Eng-Ghanem/Industrial-Robotic-Arm) |
-| **PID Tuning via Bayesian Optimization** | Black-Box Controller Calibration & Industrial Good Gain GUI | MATLAB, Simulink, Gaussian Process Surrogate Modeling, ITAE Optimization | [**Explore**](https://github.com/Eng-Ghanem/PID-Tuning-with-Bayesian-Optimization-method-Good_gain_method_GUI) |
-
----
-
-### 💻 Full-Stack Web & Software Systems
+### 💻 Full-Stack Web & Software Platforms
 
 | Project | Application Scope | Stack & Frameworks | Repository |
 |:---|:---|:---|:---:|
@@ -75,9 +67,24 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 | **RESTO Management Ecosystem** | Multi-Tier Restaurant Operations (Customer, Admin & Delivery Personnel) | Node.js, Express, MySQL Workbench EER, JWT Auth, Joi Validation, Flutter | [**Explore**](https://github.com/Eng-Ghanem/Restaurant_App) |
 | **Admin Restaurant Interface** | Cross-Platform Flutter Dashboard for Live Orders, Bookings & Couriers | Flutter 3, Dart, Material 3 Design, REST API Integration | [**Explore**](https://github.com/Eng-Ghanem/Admin_Interfce_in_Resturant_app) |
 | **Search & Sort Algorithm Benchmarker** | Empirical Execution Time Profiling ($O(n \log n)$ vs $O(n^2)$) on Utility Billing Data | Flutter, Dart, Stopwatch Diagnostics, Merge/Quick/Heap/Binary Search | [**Explore**](https://github.com/Eng-Ghanem/Searching-Sorting-Algorithm) |
+
+---
+
+<details>
+<summary><b>⚙️ Additional Engineering & Autonomous Systems Projects (Click to expand)</b></summary>
+<br/>
+
+| Project | System Type | Architecture & Hardware | Repository |
+|:---|:---|:---|:---:|
+| **Vision-Guided Robotic Sorting Cell** | Optical Classification & Pick-and-Place Manipulation | Universal Robots UR5e, Robotiq 3-Finger Adaptive Gripper, Webots Simulator, C | [**Explore**](https://github.com/Eng-Ghanem/Industrial-Robotic-Arm) |
+| **Autonomous Guided Vehicle (AGV)** | Grid Line Following & Wireless Teleoperation | Arduino Uno, ATmega328P, MPU6050 6-DOF IMU, L298N, JavaFX BlueCove RFCOMM | [**Explore**](https://github.com/Eng-Ghanem/Auto-Guided-Veical) |
+| **Distance Control Vehicle** | Closed-Loop Obstacle Distance Regulation ($25\text{ cm}$ Setpoint) | ATmega32 AVR, FreeRTOS Multitasking Kernel, Ultrasonic Sensor, PID Controller | [**Explore**](https://github.com/Eng-Ghanem/Distance-Control-vehicle) |
 | **DoodleJump PC & Physical Controller** | Arcade Game Engine with Tilt-Based Physical Steering Controller | Java, JavaFX 17, Arduino Uno, MPU6050 IMU, jSerialComm | [**Explore**](https://github.com/Eng-Ghanem/DoodleJump_Game) |
 
+</details>
+
 </div>
+<!-- DYNAMIC_PROJECTS_END -->
 
 ---
 
@@ -85,7 +92,7 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 
 <div align="center">
 
-### Cybersecurity & Network Operations
+### 🛡️ Cybersecurity, SOC & Network Defense
 ![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![SOC Operations](https://img.shields.io/badge/SOC_Operations-2F3542?style=for-the-badge&logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -93,24 +100,15 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography_%26_PKI-E056FD?style=for-the-badge&logo=lock&logoColor=white)
 
-### Programming & Scripting
+### 🧠 Artificial Intelligence, Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![State Estimation](https://img.shields.io/badge/EKF_%2F_UKF_Kalman_Filters-00A86B?style=for-the-badge&logo=target&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-E74C3C?style=for-the-badge&logo=openai&logoColor=white)
 
-### Embedded Systems, IoT & Hardware
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=freertos&logoColor=white)
-![AVR ATmega](https://img.shields.io/badge/AVR_Microchip-FF6F00?style=for-the-badge&logo=microchip&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7300?style=for-the-badge&logo=platformio&logoColor=white)
-![Webots](https://img.shields.io/badge/Webots_Robotics-2B2B2B?style=for-the-badge&logo=robot&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-E55302?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Full-Stack, Databases & Frameworks
+### 💻 Full-Stack Development, APIs & Databases
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -153,6 +151,6 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 
 <br/>
 
-*Available for Cyber Security, SOC Analyst, Network Defense, and Embedded Systems Engineering opportunities.*
+*Available for Cyber Security Engineer, SOC Analyst, AI-Driven Security, and Threat Intelligence / Network Defense opportunities.*
 
 </div>
