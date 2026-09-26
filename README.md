@@ -11,6 +11,8 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/Eng-Ghanem?label=Followers&style=for-the-badge&color=00d2d3&logo=github)](https://github.com/Eng-Ghanem)
 [![Repositories](https://img.shields.io/badge/Public%20Repositories-17-blue?style=for-the-badge&color=5f27cd&logo=git)](https://github.com/Eng-Ghanem?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ghanem-88346538a)
+[![Email](https://img.shields.io/badge/Email-mohamed.ghanem26g@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ghanem26g@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Eng-Ghanem&color=0984e3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Eng-Ghanem)
 
 ---
@@ -141,8 +143,8 @@ I am a **Cyber Security Engineer and SOC Analyst** with strong technical foundat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ghanem-88346538a)
+[![Email](https://img.shields.io/badge/Email-mohamed.ghanem26g@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ghanem26g@gmail.com)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Eng--Ghanem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-Ghanem)
 
 *Available for Cyber Security, SOC Analyst, Network Defense, and Embedded Systems Engineering opportunities.*
