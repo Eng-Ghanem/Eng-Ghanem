@@ -49,24 +49,25 @@ I am a **Cyber Security Engineer and SOC Analyst** dedicated to defensive securi
 
 ### 🧠 Artificial Intelligence, Machine Learning & Intelligent Systems
 
-| Project | Focus / Objective | Methods & Tooling | Repository |
+| Project | Core Domain / Focus | Key Technologies | Repository |
 |:---|:---|:---|:---:|
-| **EKF vs. UKF Radar State Estimation** | Nonlinear 2D Target Tracking from Noisy Polar Radar Signals | Extended Kalman Filter (Taylor Jacobians), Unscented Kalman Filter (Merwe Sigma Points), NumPy | [**Explore**](https://github.com/Eng-Ghanem/EKF-UKF-kalman-filter-using-python-radar-measurments-nonlinear-system-Virtualization) |
+| **Facial Emotion Recognition Pipeline** | Deep Learning Emotion Classification with EfficientNet, TTA & Class Weighting | Deep Learning, EfficientNet, Transfer Learning, Flask API, Jupyter | [**Explore**](https://github.com/Eng-Ghanem/Facial-Emotion-Recognition) |
+| **PID Tuning via Bayesian Optimization** | Gaussian Process Surrogate Modeling & Industrial Good Gain GUI | MATLAB, Simulink, Gaussian Process Regression, ITAE Objective Optimization | [**Explore**](https://github.com/Eng-Ghanem/PID-Tuning-with-Bayesian-Optimization-method-Good_gain_method_GUI) |
 | **Autonomous Maze Solver Agent** | Tabular Reinforcement Learning Navigation in Dynamic GridWorld | Q-Learning (Temporal Difference Control), $\epsilon$-Greedy Policy, Pygame | [**Explore**](https://github.com/Eng-Ghanem/Maze-Solver-using-Reinforcement-Learning-Q-Learning-AI) |
 | **Foundational ML from Scratch** | Mathematical Implementation of Core Algorithms without High-Level ML Frameworks | Backpropagation, Multi-Layer Perceptrons, K-Means Clustering, SVM Margins, OLS | [**Explore**](https://github.com/Eng-Ghanem/Machine-Learning-Codes-in-Python) |
-| **PID Tuning via Bayesian Optimization** | Gaussian Process Surrogate Modeling & Industrial Good Gain GUI | MATLAB, Simulink, Gaussian Process Regression, ITAE Objective Optimization | [**Explore**](https://github.com/Eng-Ghanem/PID-Tuning-with-Bayesian-Optimization-method-Good_gain_method_GUI) |
+| **EKF vs. UKF Radar State Estimation** | Nonlinear 2D Target Tracking from Noisy Polar Radar Signals | Extended Kalman Filter (Taylor Jacobians), Unscented Kalman Filter (Merwe Sigma Points), NumPy | [**Explore**](https://github.com/Eng-Ghanem/EKF-UKF-kalman-filter-using-python-radar-measurments-nonlinear-system-Virtualization) |
 
 ---
 
 ### 💻 Full-Stack Web & Software Platforms
 
-| Project | Application Scope | Stack & Frameworks | Repository |
+| Project | Core Domain / Focus | Key Technologies | Repository |
 |:---|:---|:---|:---:|
-| **AlMajd Air HVAC Platform** | Service Booking, Video Diagnosis Uploads, Stripe Payments & Admin Analytics | React 19, Vite, Tailwind CSS, Express 5, Supabase PostgreSQL, Stripe | [**Explore**](https://github.com/Eng-Ghanem/AlMajd-Air-Platform) |
-| **Manarat Al-Daad Platform** | Gamified Arabic E-Learning Platform with Quizzes & Real-Time Community Chat | React 19, Tailwind v4, Express 5, Supabase Row Level Security (RLS), i18next | [**Explore**](https://github.com/Eng-Ghanem/Manarat_Al_Daad_Platform) |
-| **RESTO Management Ecosystem** | Multi-Tier Restaurant Operations (Customer, Admin & Delivery Personnel) | Node.js, Express, MySQL Workbench EER, JWT Auth, Joi Validation, Flutter | [**Explore**](https://github.com/Eng-Ghanem/Restaurant_App) |
-| **Admin Restaurant Interface** | Cross-Platform Flutter Dashboard for Live Orders, Bookings & Couriers | Flutter 3, Dart, Material 3 Design, REST API Integration | [**Explore**](https://github.com/Eng-Ghanem/Admin_Interfce_in_Resturant_app) |
 | **Search & Sort Algorithm Benchmarker** | Empirical Execution Time Profiling ($O(n \log n)$ vs $O(n^2)$) on Utility Billing Data | Flutter, Dart, Stopwatch Diagnostics, Merge/Quick/Heap/Binary Search | [**Explore**](https://github.com/Eng-Ghanem/Searching-Sorting-Algorithm) |
+| **RESTO Management Ecosystem** | Multi-Tier Restaurant Operations (Customer, Admin & Delivery Personnel) | Node.js, Express, MySQL Workbench EER, JWT Auth, Joi Validation, Flutter | [**Explore**](https://github.com/Eng-Ghanem/Restaurant_App) |
+| **Manarat Al-Daad Platform** | Gamified Arabic E-Learning Platform with Quizzes & Real-Time Community Chat | React 19, Tailwind v4, Express 5, Supabase Row Level Security (RLS), i18next | [**Explore**](https://github.com/Eng-Ghanem/Manarat_Al_Daad_Platform) |
+| **AlMajd Air HVAC Platform** | Service Booking, Video Diagnosis Uploads, Stripe Payments & Admin Analytics | React 19, Vite, Tailwind CSS, Express 5, Supabase PostgreSQL, Stripe | [**Explore**](https://github.com/Eng-Ghanem/AlMajd-Air-Platform) |
+| **Admin Restaurant Interface** | Cross-Platform Flutter Dashboard for Live Orders, Bookings & Couriers | Flutter 3, Dart, Material 3 Design, REST API Integration | [**Explore**](https://github.com/Eng-Ghanem/Admin_Interfce_in_Resturant_app) |
 
 ---
 
@@ -74,12 +75,12 @@ I am a **Cyber Security Engineer and SOC Analyst** dedicated to defensive securi
 <summary><b>⚙️ Additional Engineering & Autonomous Systems Projects (Click to expand)</b></summary>
 <br/>
 
-| Project | System Type | Architecture & Hardware | Repository |
+| Project | Core Domain / Focus | Key Technologies | Repository |
 |:---|:---|:---|:---:|
 | **Vision-Guided Robotic Sorting Cell** | Optical Classification & Pick-and-Place Manipulation | Universal Robots UR5e, Robotiq 3-Finger Adaptive Gripper, Webots Simulator, C | [**Explore**](https://github.com/Eng-Ghanem/Industrial-Robotic-Arm) |
-| **Autonomous Guided Vehicle (AGV)** | Grid Line Following & Wireless Teleoperation | Arduino Uno, ATmega328P, MPU6050 6-DOF IMU, L298N, JavaFX BlueCove RFCOMM | [**Explore**](https://github.com/Eng-Ghanem/Auto-Guided-Veical) |
-| **Distance Control Vehicle** | Closed-Loop Obstacle Distance Regulation ($25\text{ cm}$ Setpoint) | ATmega32 AVR, FreeRTOS Multitasking Kernel, Ultrasonic Sensor, PID Controller | [**Explore**](https://github.com/Eng-Ghanem/Distance-Control-vehicle) |
 | **DoodleJump PC & Physical Controller** | Arcade Game Engine with Tilt-Based Physical Steering Controller | Java, JavaFX 17, Arduino Uno, MPU6050 IMU, jSerialComm | [**Explore**](https://github.com/Eng-Ghanem/DoodleJump_Game) |
+| **Distance Control Vehicle** | Closed-Loop Obstacle Distance Regulation ($25\text{ cm}$ Setpoint) | ATmega32 AVR, FreeRTOS Multitasking Kernel, Ultrasonic Sensor, PID Controller | [**Explore**](https://github.com/Eng-Ghanem/Distance-Control-vehicle) |
+| **Autonomous Guided Vehicle (AGV)** | Grid Line Following & Wireless Teleoperation | Arduino Uno, ATmega328P, MPU6050 6-DOF IMU, L298N, JavaFX BlueCove RFCOMM | [**Explore**](https://github.com/Eng-Ghanem/Auto-Guided-Veical) |
 
 </details>
 
