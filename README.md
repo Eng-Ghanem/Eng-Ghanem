@@ -40,6 +40,7 @@ I am a **Cyber Security Engineer and SOC Analyst** dedicated to defensive securi
 
 | Project | Core Domain / Focus | Key Technologies | Repository |
 |:---|:---|:---|:---:|
+| **Advanced Password Cracking Hashcat** | 🛡️ Advanced Password Recovery & Security Assessment Lab using Hashcat on Kali Linux. Inspired by SANS GSEC, featuring custom rule engines, Linux troubleshooting, and Bitcoin wallet KDF analysis. | Software | [**Explore**](https://github.com/Eng-Ghanem/Advanced-Password-Cracking-Hashcat) |
 | **Secure IoT Network Design** | 3-Layer Defense-in-Depth Architecture, Threat Modeling, Incident Response | mTLS, TPM 2.0, Secure Boot, VLANs, Cryptographic OTA | [**Explore**](https://github.com/Eng-Ghanem/Secure-IOT-Network-Design) |
 | **Enterprise Network & CyberOps (5GCOM)** | Multi-Building Campus Network, Enterprise ACLs & Threat Hardening | Cisco Packet Tracer, OSPF, VLANs, Syslog, NTP, Port Security | [**Explore**](https://github.com/Eng-Ghanem/Network-Security_5GCOM-project) |
 | **Autonomous Vehicle Navigation Security** | Cyber-Physical Threat Analysis on GNSS, GPS Spoofing & V2X Channels | GNSS L1/E1, Galileo OSNMA, Sensor Fusion EKF, CAN Bus Security | [**Explore**](https://github.com/Eng-Ghanem/Navigation_and_Positioning_Systems_Autonomous_Vehicles_Project) |
@@ -63,10 +64,8 @@ I am a **Cyber Security Engineer and SOC Analyst** dedicated to defensive securi
 
 | Project | Core Domain / Focus | Key Technologies | Repository |
 |:---|:---|:---|:---:|
-| **Manarat Al-Daad Platform** | Gamified Arabic E-Learning Platform with Quizzes & Real-Time Community Chat | React 19, Tailwind v4, Express 5, Supabase Row Level Security (RLS), i18next | [**Explore**](https://github.com/Eng-Ghanem/Manarat_Al_Daad_Platform) |
 | **Search & Sort Algorithm Benchmarker** | Empirical Execution Time Profiling ($O(n \log n)$ vs $O(n^2)$) on Utility Billing Data | Flutter, Dart, Stopwatch Diagnostics, Merge/Quick/Heap/Binary Search | [**Explore**](https://github.com/Eng-Ghanem/Searching-Sorting-Algorithm) |
 | **RESTO Management Ecosystem** | Multi-Tier Restaurant Operations (Customer, Admin & Delivery Personnel) | Node.js, Express, MySQL Workbench EER, JWT Auth, Joi Validation, Flutter | [**Explore**](https://github.com/Eng-Ghanem/Restaurant_App) |
-| **AlMajd Air HVAC Platform** | Service Booking, Video Diagnosis Uploads, Stripe Payments & Admin Analytics | React 19, Vite, Tailwind CSS, Express 5, Supabase PostgreSQL, Stripe | [**Explore**](https://github.com/Eng-Ghanem/AlMajd-Air-Platform) |
 | **Admin Restaurant Interface** | Cross-Platform Flutter Dashboard for Live Orders, Bookings & Couriers | Flutter 3, Dart, Material 3 Design, REST API Integration | [**Explore**](https://github.com/Eng-Ghanem/Admin_Interfce_in_Resturant_app) |
 
 ---
